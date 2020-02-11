@@ -1,0 +1,5 @@
+print("강수호")
+print("28")
+print("남자")
+print("수강생")
+print("쉬는시간")
